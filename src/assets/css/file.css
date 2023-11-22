@@ -1,0 +1,25 @@
+.bga{
+   
+    background-size: cover;
+    background-position: center center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+.maina{
+    background-color:mistyrose;
+    margin-top:70px;
+    margin-left:250px;
+    padding-top: 5px;
+    border:20px solid black;
+    width: 1000px;
+    height:650px;
+
+}
+.ppp{
+    font-size: 19px;
+    font-family: cursive;
+}
