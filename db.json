@@ -1,0 +1,16 @@
+{
+  "sign": [
+    {
+      "name": "sampiruthi",
+      "email": "22cse145@skcet.ac.in",
+      "password": "sam4ever",
+      "id": 1
+    },
+    {
+      "name": "YALINI B",
+      "email": "a@gmail.com",
+      "password": "asdfasdfg",
+      "id": 2
+    }
+  ]
+}
